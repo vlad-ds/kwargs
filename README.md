@@ -1,5 +1,7 @@
 # Kwargs
-### *The name says it all.*
+### Get Kanye quotes directly in your command line. 
+
+Source: https://kanye.rest/
 
 ## Installation
 
