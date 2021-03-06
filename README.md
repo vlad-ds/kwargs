@@ -1,5 +1,5 @@
 # Kwargs
-### Get Kanye quotes directly in your command line. 
+### Get Kanye West quotes directly in your command line. 
 
 This was an experiment in packaging Python code and making it avaialable through Pip and Git.
 
